@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "f",
+    "owner": "f",
+    "description": "f"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "f"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "f",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "f"
+  }
+}
